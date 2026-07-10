@@ -1,0 +1,5 @@
+ID=stock-discord-bot
+NAME=Stock Discord Bot
+MAIN=bot.py
+VERSION=3.11
+AUTORESTART=true
